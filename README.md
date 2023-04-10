@@ -12,3 +12,8 @@
 * main
   * 16진수를 문자열로 받고, strtol 함수를 써서 10진수로 변환한다. (stdlib 필요)
   * 변환한 10진수 값을 decimalToBinary에 넘겨준다.
+
+
+* 실행화면
+
+ ![image](https://user-images.githubusercontent.com/101866860/231007775-dbe224e4-2e45-46c8-af52-b78830f7a7a1.png)
