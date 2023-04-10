@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/BY/Desktop/SysP",
-      "program": "c:/Users/BY/Desktop/SysP/build/Debug/outDebug",
+      "cwd": "c:/Users/BY/Desktop/3-1학기/SysP",
+      "program": "c:/Users/BY/Desktop/3-1학기/SysP/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
